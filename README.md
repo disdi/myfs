@@ -1,4 +1,4 @@
 myfs
 ====
 
-A simple minimilistic linux filesystem changed.
+A simple minimilistic linux filesystem changed back.
